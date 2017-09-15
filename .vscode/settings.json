@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "out": false
+    },
+    "search.exclude": {
+        "out": true
+    },
+    "tslint.autoFixOnSave": true
+}
